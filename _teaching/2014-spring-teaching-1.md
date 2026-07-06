@@ -14,6 +14,8 @@ DNS Project
 
 I started a small DNS project and found out how small changes affected websites.
 
+<br/><img src='/images/ggt.docx.png'>
+
 ======
 
 
