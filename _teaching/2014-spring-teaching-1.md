@@ -11,6 +11,9 @@ location: "Immokalee, Collier County"
 
 
 DNS Project
+
+I started a small DNS project and found out how small changes affected websites.
+
 ======
 
 
