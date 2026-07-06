@@ -1,6 +1,6 @@
 ---
 title: "Design for Delight"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/intuitd4d.png'>"
+excerpt: I got this badge so that I have a better understanding of best business practices 1<br/><img src='/images/intuitd4d.png'>"
 collection: portfolio
 ---
 
