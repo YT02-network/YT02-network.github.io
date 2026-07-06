@@ -14,7 +14,11 @@ DNS Project
 
 I started a small DNS project and found out how small changes affected websites.
 
-<br/><img src='/images/ggt.docx.png'>
+<form action="/upload-endpoint" method="POST" enctype="multipart/form-data">
+  <input type="file" name="ggt.docx">
+  <button type="submit">Upload</button>
+</form>
+
 
 ======
 
