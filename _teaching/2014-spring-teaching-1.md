@@ -13,7 +13,7 @@ location: "Immokalee, Collier County"
 DNS Project
 
 I started a small DNS project and found out how small changes affected websites.
-'https://academicpages.github.io/files/messdns.pdf'
+'https://yt02-network.github.io/teaching/2014-spring-teaching-1/files/messdns.pdf'
 
 
 
