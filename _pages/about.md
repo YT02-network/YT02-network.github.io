@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am from Immokalee Florida. Born and raised in Immokalee. I enrolled into the CSIT so that I can get some hand on experience and a couple certifications so I can get my foot in the door in the IT field. I am starting a new career into tech, with my ultimate goal being becoming a network engineer. 
+I am a Computer Systems and Information Technology student building hands-on experience in IT support, networking, and system administration.
+
+I have been developing practical experience through virtual labs and networking projects involving Windows, Active Directory, Group Policy, virtualization, Cisco Packet Tracer, and AWS.
+
+My current goal is to begin my career in IT support or networking while continuing to develop the skills needed to eventually become a network engineer.
