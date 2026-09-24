@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yosef Tomas"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Computer Systems and IT student building hands-on experience in Help Desk support, Windows, Active Directory, Networking, and Troubleshooting"
   location         : "Labelle, FL"
   employer         : "Immokalee Technical School"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Yosef Tomas
+  linkedin         : "www.linkedin.com/in/yosef-tomas-399556411"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
