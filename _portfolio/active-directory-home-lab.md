@@ -40,6 +40,24 @@ I used `gpresult` to examine the policies being applied to the client and invest
 
 This helped me understand that configuring a policy is only part of the process — you also need to verify that the correct computer or user is receiving the policy.
 
+## Evidence
+
+Screenshot documenting the lab configuration and troubleshooting process
+   
+  ## Virtual Lab Environment
+
+  ## Active Directory Users and Organizational Units
+
+  ## Domain-Joined Client
+
+  ## Group Policy Configuration
+
+  ## Group Policy Testing
+
+  ## gpresult /r Verification
+
+  ## Troubleshooting
+
 ## What I Learned
 
 This lab gave me hands-on experience with Windows Server administration, Active Directory, Group Policy, virtualization, and basic troubleshooting.
